@@ -28,6 +28,6 @@
 ### Icon
 
 <p>
-  <img src="./Icon/Icon-Flat-BG.png" width="128" alt="Dark Flat Icon">
-  <img src="./Icon/Icon-Flat.png" width="128" alt="Light Flat Icon">
+  <img src="./Icon/Icon-flat-bg.png" width="128" alt="Dark Flat Icon">
+  <img src="./Icon/Icon-flat.png" width="128" alt="Light Flat Icon">
 </p>
